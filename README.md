@@ -40,4 +40,6 @@ https://github.com/ShqipdonDrenica/favoriMap-app/assets/63073692/939bbfd6-9198-4
 https://github.com/ShqipdonDrenica/favoriMap-app/assets/63073692/780a9fbc-105c-49bf-a225-5cee26380e18
 
 
+https://github.com/ShqipdonDrenica/favoriMap-app/assets/63073692/3861a7a7-c6ec-4a09-a9d3-dcd9effd026c
+
 
