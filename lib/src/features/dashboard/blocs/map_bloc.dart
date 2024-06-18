@@ -57,7 +57,7 @@ class MapBloc extends Bloc<MapEvent, MapState> {
         emit(MapError("No location found"));
       }
     } catch (e) {
-      emit(MapError("Error occurred while searching for place: $e"));
+      emit(MapError(""));
     }
   }
 

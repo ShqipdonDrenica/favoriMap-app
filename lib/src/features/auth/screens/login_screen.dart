@@ -42,6 +42,13 @@ class LoginScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
+                    Image(
+                      image: AssetImage('assets/map.png'),
+                      height: 80,
+                    ),
+                    const SizedBox(
+                      height: 40,
+                    ),
                     if (!isLogin)
                       Column(
                         children: [
