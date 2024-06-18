@@ -33,6 +33,8 @@ Flutter Favorite Places App.
    Ensure your emulator or physical device is ready.
    Run the following command in the terminal: flutter run
 
+## App Demo
+
 https://github.com/ShqipdonDrenica/favoriMap-app/assets/63073692/939bbfd6-9198-4d83-b156-92998af0624a
 
 https://github.com/ShqipdonDrenica/favoriMap-app/assets/63073692/780a9fbc-105c-49bf-a225-5cee26380e18
