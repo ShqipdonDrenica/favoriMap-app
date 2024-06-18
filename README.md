@@ -1,22 +1,36 @@
 # favori_map
 
-A new Flutter project.
+Flutter Favorite Places App.
 
-## Getting Started
+## How to Start project
 
-This project is a starting point for a Flutter application.
+1. Install Flutter SDK:
+   Download and install the Flutter SDK from the official Flutter website.
+ 
+2. Install a Code Editor:
+   Recommended: Visual Studio Code with the Flutter and Dart plugins.
+   Alternatively, Android Studio with the Flutter and Dart plugins.
 
-A few resources to get you started if this is your first Flutter project:
+3. Set Up an Emulator or Physical Device:
+   For Android: Set up an Android emulator through Android Studio.
+   For iOS: Set up an iOS simulator through Xcode (macOS only).
+   Connect a physical device via USB and enable Developer Mode.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Setting Up the Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# favori-map
-# favoriMap-app
-# favoriMap-app
-# favoriMap-app
-# favoriMap-app
-# favoriMap-app
+1. Navigate to the Project Directory:
+  
+3. Open the project in Android Studio or Visual Studio Code.
+
+4. Open Simulator or Connect Device:
+   Start an Android emulator via Android Studio or an iOS simulator via Xcode.
+   Alternatively, connect a physical device.
+
+6. Get the Dependencies:
+   In the terminal, navigate to the project directory and run: flutter pub get
+
+7. Run the Project:
+   Ensure your emulator or physical device is ready.
+   Run the following command in the terminal: flutter run
+
+
