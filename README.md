@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # favori-map
 # favoriMap-app
 # favoriMap-app
+# favoriMap-app
